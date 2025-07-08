@@ -4,14 +4,20 @@ import org.testng.annotations.Test;
 
 import tmdbservices.auth.AuthServices;
 
+
 public class AuthFlowTest {
 
-	@Test
+	@Test(priority=1)
 	public void login() {
-		
-		
-		AuthServices.createRequestToken();
+		AuthServices.ensureLoggedIn();
 	    
+	}
+	
+	
+	
+	@Test(priority=2)
+	public void logOut() {
+		AuthServices.deleteSession();
 	    
 	}
 	
