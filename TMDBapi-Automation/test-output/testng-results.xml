@@ -1,17 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-07T18:54:43 IST" name="Default suite" finished-at="2025-07-07T18:54:45 IST" duration-ms="1809">
+  <suite started-at="2025-07-09T20:41:32 IST" name="Default suite" finished-at="2025-07-09T20:41:40 IST" duration-ms="8461">
     <groups>
     </groups>
-    <test started-at="2025-07-07T18:54:43 IST" name="Default test" finished-at="2025-07-07T18:54:45 IST" duration-ms="1809">
-      <class name="testcases.accountApiTest.AuthFlowTest">
-        <test-method signature="login()[pri:0, instance:testcases.accountApiTest.AuthFlowTest@43b6123e]" started-at="2025-07-07T18:54:43 IST" name="login" finished-at="2025-07-07T18:54:45 IST" duration-ms="1779" status="PASS">
+    <test started-at="2025-07-09T20:41:32 IST" name="Default test" finished-at="2025-07-09T20:41:40 IST" duration-ms="8461">
+      <class name="testcases.accountApiTest.FavoritesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:32 IST" name="setup" finished-at="2025-07-09T20:41:35 IST" duration-ms="3015" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-      </class> <!-- testcases.accountApiTest.AuthFlowTest -->
+        </test-method> <!-- setup -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:35 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:35 IST" duration-ms="606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[movie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[496243]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:35 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:36 IST" duration-ms="583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[movie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[278]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:36 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:37 IST" duration-ms="572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1396]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:37 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:37 IST" duration-ms="553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1429]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:37 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:38 IST" duration-ms="551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[movie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[496243]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:38 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:38 IST" duration-ms="551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[movie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[278]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:38 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:39 IST" duration-ms="561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1396]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:39 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:39 IST" duration-ms="583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1429]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavorites -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:39 IST" name="teardown" finished-at="2025-07-09T20:41:40 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.accountApiTest.FavoritesTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
