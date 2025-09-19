@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-09T20:41:32 IST" name="Default suite" finished-at="2025-07-09T20:41:40 IST" duration-ms="8461">
+  <suite started-at="2025-09-19T20:00:10 IST" name="Default suite" finished-at="2025-09-19T20:00:32 IST" duration-ms="22228">
     <groups>
     </groups>
-    <test started-at="2025-07-09T20:41:32 IST" name="Default test" finished-at="2025-07-09T20:41:40 IST" duration-ms="8461">
+    <test started-at="2025-09-19T20:00:10 IST" name="Default test" finished-at="2025-09-19T20:00:32 IST" duration-ms="22228">
       <class name="testcases.accountApiTest.FavoritesTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:32 IST" name="setup" finished-at="2025-07-09T20:41:35 IST" duration-ms="3015" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:10 IST" name="setup" finished-at="2025-09-19T20:00:22 IST" duration-ms="11224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:35 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:35 IST" duration-ms="606" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:23 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:24 IST" duration-ms="1106" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:35 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:36 IST" duration-ms="583" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:24 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:25 IST" duration-ms="911" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:36 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:37 IST" duration-ms="572" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:25 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:26 IST" duration-ms="1020" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,7 +74,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:37 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:37 IST" duration-ms="553" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:26 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:27 IST" duration-ms="971" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -95,7 +95,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:37 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:38 IST" duration-ms="551" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:27 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:28 IST" duration-ms="1318" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -116,7 +116,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:38 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:38 IST" duration-ms="551" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:28 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:29 IST" duration-ms="999" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -137,7 +137,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:38 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:39 IST" duration-ms="561" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:29 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:30 IST" duration-ms="1000" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -158,7 +158,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:39 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-07-09T20:41:39 IST" duration-ms="583" status="PASS">
+        <test-method signature="testFavorites(java.lang.String,int,boolean)[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:30 IST" name="testFavorites" data-provider="favoriteMovies" finished-at="2025-09-19T20:00:31 IST" duration-ms="995" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,7 +179,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFavorites -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.accountApiTest.FavoritesTest@1536602f]" started-at="2025-07-09T20:41:39 IST" name="teardown" finished-at="2025-07-09T20:41:40 IST" duration-ms="552" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.accountApiTest.FavoritesTest@fd0e5b6]" started-at="2025-09-19T20:00:31 IST" name="teardown" finished-at="2025-09-19T20:00:32 IST" duration-ms="992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

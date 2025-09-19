@@ -15,6 +15,7 @@ import utils.ExcelTestDataManager;
 
 public class FavoritesTest {
 	private static final Logger logger = LogManager.getLogger(FavoritesTest.class);
+	
 	@DataProvider(name = "favoriteMovies")
 	public Object[][] getFavoriteMovies() throws Exception {
 		logger.info("Initializing test data provider for favorites");
