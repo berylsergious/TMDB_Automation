@@ -1,0 +1,140 @@
+2025-09-15 15:12:40.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:40.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-09-15 15:12:40.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:40.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:40.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:40.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:40.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:40.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:40.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-09-15 15:12:41.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-09-15 15:12:41.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-09-15 15:12:41.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.025 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.026 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.027 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.037 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-15 15:12:41.037 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-15 15:12:41.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sergious.beryl\AppData\Local\Temp\testng-eclipse--370772281\testng-customsuite.xml
+
+2025-09-15 15:12:41.073 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-09-15 15:12:41.120 [main] INFO  testcases.accountApiTest.FavoritesTest - Initializing test session
+2025-09-15 15:12:49.221 [main] INFO  testcases.accountApiTest.FavoritesTest - Initializing test data provider for favorites
+2025-09-15 15:12:49.222 [main] DEBUG testcases.accountApiTest.FavoritesTest - Loading test data from Excel file
+2025-09-15 15:12:50.087 [main] DEBUG testcases.accountApiTest.FavoritesTest - Successfully prepared test data provider
+2025-09-15 15:12:50.109 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: movie, MediaID: 496243, isFavorite: false
+2025-09-15 15:12:50.109 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:50.109 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:50.112 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "movie",
+    "media_id": 496243,
+    "favorite": false
+}
+2025-09-15 15:12:50.112 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:51.157 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 200, Body: {"success":true,"status_code":13,"status_message":"The item/record was deleted successfully."}
+2025-09-15 15:12:51.159 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1035 ms
+2025-09-15 15:12:51.259 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:51.266 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: movie, MediaID: 278, isFavorite: false
+2025-09-15 15:12:51.266 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:51.266 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:51.267 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "movie",
+    "media_id": 278,
+    "favorite": false
+}
+2025-09-15 15:12:51.267 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:54.276 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 200, Body: {"success":true,"status_code":13,"status_message":"The item/record was deleted successfully."}
+2025-09-15 15:12:54.277 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 3001 ms
+2025-09-15 15:12:54.348 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:54.357 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: tv, MediaID: 1396, isFavorite: false
+2025-09-15 15:12:54.358 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:54.358 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:54.360 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "tv",
+    "media_id": 1396,
+    "favorite": false
+}
+2025-09-15 15:12:54.362 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:55.830 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 200, Body: {"success":true,"status_code":13,"status_message":"The item/record was deleted successfully."}
+2025-09-15 15:12:55.831 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1454 ms
+2025-09-15 15:12:55.889 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:55.897 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: tv, MediaID: 1429, isFavorite: false
+2025-09-15 15:12:55.897 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:55.898 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:55.901 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "tv",
+    "media_id": 1429,
+    "favorite": false
+}
+2025-09-15 15:12:55.901 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:57.320 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 200, Body: {"success":true,"status_code":13,"status_message":"The item/record was deleted successfully."}
+2025-09-15 15:12:57.320 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1405 ms
+2025-09-15 15:12:57.381 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:57.389 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: movie, MediaID: 496243, isFavorite: true
+2025-09-15 15:12:57.390 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:57.390 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:57.393 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "movie",
+    "media_id": 496243,
+    "favorite": true
+}
+2025-09-15 15:12:57.394 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:58.555 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 201, Body: {"success":true,"status_code":1,"status_message":"Success."}
+2025-09-15 15:12:58.555 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1146 ms
+2025-09-15 15:12:58.582 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:58.583 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: movie, MediaID: 278, isFavorite: true
+2025-09-15 15:12:58.583 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:58.585 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:58.586 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "movie",
+    "media_id": 278,
+    "favorite": true
+}
+2025-09-15 15:12:58.586 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:12:59.621 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 201, Body: {"success":true,"status_code":1,"status_message":"Success."}
+2025-09-15 15:12:59.621 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1031 ms
+2025-09-15 15:12:59.686 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:12:59.699 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: tv, MediaID: 1396, isFavorite: true
+2025-09-15 15:12:59.700 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:12:59.700 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:12:59.702 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "tv",
+    "media_id": 1396,
+    "favorite": true
+}
+2025-09-15 15:12:59.702 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:13:00.790 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 201, Body: {"success":true,"status_code":1,"status_message":"Success."}
+2025-09-15 15:13:00.794 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 1077 ms
+2025-09-15 15:13:00.860 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:13:00.868 [main] INFO  tmdbservices.account.AddRemoveFavorites - Starting addRemoveFavorites operation - MediaType: tv, MediaID: 1429, isFavorite: true
+2025-09-15 15:13:00.869 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Configuration loaded - BaseURI: https://api.themoviedb.org/3/, AccountID: 21967484
+2025-09-15 15:13:00.869 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Populating JSON template from path: C:\Users\sergious.beryl\git\TMDB_Automation\TMDBapi-Automation//src//test//resources//jasonPayload_Templates//Favorites.json
+2025-09-15 15:13:00.872 [main] DEBUG tmdbservices.account.AddRemoveFavorites - Request body populated: {
+    "media_type": "tv",
+    "media_id": 1429,
+    "favorite": true
+}
+2025-09-15 15:13:00.873 [main] INFO  tmdbservices.account.AddRemoveFavorites - Sending API request to add/remove favorites
+2025-09-15 15:13:01.648 [main] DEBUG tmdbservices.account.AddRemoveFavorites - API Response - Status: 201, Body: {"success":true,"status_code":1,"status_message":"Success."}
+2025-09-15 15:13:01.649 [main] INFO  tmdbservices.account.AddRemoveFavorites - API request completed in 764 ms
+2025-09-15 15:13:01.737 [main] INFO  tmdbservices.account.AddRemoveFavorites - Successfully completed addRemoveFavorites operation
+2025-09-15 15:13:02.850 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4895e8f6: 184 ms
+2025-09-15 15:13:02.856 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@58b03029: 6 ms
+2025-09-15 15:13:02.882 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@49153009: 25 ms
+2025-09-15 15:13:02.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66716959: 12 ms
+2025-09-15 15:13:02.908 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@705d914f: 14 ms
+2025-09-15 15:13:02.908 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6212ea52: 0 ms
